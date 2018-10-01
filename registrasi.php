@@ -1,4 +1,4 @@
-<form action="" method="POST">
+<form action="prosesregis.php" method="POST">
 	<table align="center">
 		<tr>
 			<td colspan="3" align="center" bgcolor="lightblue"><h2>Form Registrasi</h2></td>
