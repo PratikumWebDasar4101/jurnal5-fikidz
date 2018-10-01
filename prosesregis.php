@@ -6,9 +6,9 @@ if (isset($_POST['nama'])) {
 	$nama = $_POST['nama'];
 	$email = $_POST['email'];
 
-	echo $nim;
-	echo $nama;
-	echo $email;
+	echo $nim."<br>";
+	echo $nama."<br>";
+	echo $email."<br>";
 }
 
  ?>
